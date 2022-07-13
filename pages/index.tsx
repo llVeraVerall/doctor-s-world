@@ -11,7 +11,6 @@ const Home: NextPage = () => {
       <Head>
         <title>А вдруг СМА?</title>
       </Head>
-
       <Title />
       <Option />
       <Carousel />
